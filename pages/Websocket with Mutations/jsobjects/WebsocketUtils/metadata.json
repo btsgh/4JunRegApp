@@ -1,11 +1,11 @@
 {
+  "gitSyncId": "665ee8a91a2e53685a25256d_bbd3c1bb-ffc0-44cb-9fbd-e443fdb0cdb6",
+  "id": "Websocket with Mutations_WebsocketUtils",
   "unpublishedCollection": {
     "name": "WebsocketUtils",
     "pageId": "Websocket with Mutations",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
     "variables": [
       {
         "name": "socketResponseData",
@@ -27,10 +27,6 @@
         "name": "updateResponseDelay",
         "value": "5000"
       }
-    ],
-    "userPermissions": []
-  },
-  "id": "Websocket with Mutations_WebsocketUtils",
-  "deleted": false,
-  "gitSyncId": "665ee8a91a2e53685a25256d_bbd3c1bb-ffc0-44cb-9fbd-e443fdb0cdb6"
+    ]
+  }
 }
