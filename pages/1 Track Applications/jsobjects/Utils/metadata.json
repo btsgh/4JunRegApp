@@ -1,15 +1,11 @@
 {
+  "gitSyncId": "665ee99de36a633f655a45cb_3fc6c94e-1fb1-4df1-9458-b915a8b6b8c8",
+  "id": "1 Track Applications_Utils",
   "unpublishedCollection": {
     "name": "Utils",
     "pageId": "1 Track Applications",
     "pluginId": "js-plugin",
     "pluginType": "JS",
-    "actions": [],
-    "archivedActions": [],
-    "variables": [],
-    "userPermissions": []
-  },
-  "id": "1 Track Applications_Utils",
-  "deleted": false,
-  "gitSyncId": "665ee99de36a633f655a45cb_3fc6c94e-1fb1-4df1-9458-b915a8b6b8c8"
+    "variables": []
+  }
 }
